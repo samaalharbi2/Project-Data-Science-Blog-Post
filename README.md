@@ -63,6 +63,7 @@ Our analysis follows the **CRISP-DM** process:
 ---
 
 ## 💼 Business Understanding
+![Stack Overflow Logo](https://github.com/mbenetti/CRISP-DM-Rossmann/blob/master/CRISP-DM.png)
 
 The goal of this project is to bridge the gap between raw survey data and career-changing insights. We seek to understand how variables such as education, programming languages, and job search behavior influence salary and job outcomes. These findings are crucial for stakeholders such as:
 
