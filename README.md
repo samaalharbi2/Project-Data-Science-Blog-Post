@@ -40,8 +40,6 @@ With data from over 80,000 developers worldwide, the goal is to extract actionab
 - Seaborn, Matplotlib  
 - Scikit-learn  
 - Jupyter Notebook  
-- Git & GitHub  
-- Markdown / VS Code
 
 ---
 
