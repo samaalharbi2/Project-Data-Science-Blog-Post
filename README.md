@@ -3,14 +3,25 @@
 > A deep dive into Stack Overflow's 2024 Developer Survey — uncovering the habits, skills, and behaviors that shape developer success.
 
 ## 📖 Table of Contents
-
+- [Business Understanding](#business-understanding) 
 - [Project Motivation](#project-motivation)  
 - [Dataset & Link](#dataset--link)  
 - [Tools & Technologies](#tools--technologies)  
-- [Methodology](#methodology)  
-- [Business Understanding](#business-understanding)  
-- [To-do List](#-to-do-list)  
+- [Methodology](#methodology)    
 - [Acknowledgements](#acknowledgements)
+
+---
+
+## 💼 Business Understanding
+<img src="https://github.com/mbenetti/CRISP-DM-Rossmann/blob/master/CRISP-DM.png" alt="CRISP Logo" width="400"/>
+
+
+The goal of this project is to bridge the gap between raw survey data and career-changing insights. We seek to understand how variables such as education, programming languages, and job search behavior influence salary and job outcomes. These findings are crucial for stakeholders such as:
+
+- **Hiring Managers** – To understand talent behavior trends.  
+- **Developers** – To adjust skills and strategies.  
+- **Educators** – To tailor tech education programs.  
+- **Career Coaches** – To guide job seekers based on data.
 
 ---
 
@@ -53,25 +64,6 @@ Our analysis follows the **CRISP-DM** process:
 4. **Modeling** – Train ML models where needed.  
 5. **Evaluation** – Assess insights/statistics and model performance.  
 6. **Deployment** – Share findings through visuals and blog storytelling.
-
----
-
-## 📌 To-do list
-
-✅ Choose dataset ➤ ✅ Perform EDA ➤ ✅ Clean the data ➤ ✅ Build ML model ➤ ✅ Evaluate model
-
----
-
-## 💼 Business Understanding
-<img src="https://github.com/mbenetti/CRISP-DM-Rossmann/blob/master/CRISP-DM.png" alt="CRISP Logo" width="400"/>
-
-
-The goal of this project is to bridge the gap between raw survey data and career-changing insights. We seek to understand how variables such as education, programming languages, and job search behavior influence salary and job outcomes. These findings are crucial for stakeholders such as:
-
-- **Hiring Managers** – To understand talent behavior trends.  
-- **Developers** – To adjust skills and strategies.  
-- **Educators** – To tailor tech education programs.  
-- **Career Coaches** – To guide job seekers based on data.
 
 ---
 
