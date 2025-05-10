@@ -8,8 +8,8 @@
 - [Dataset & Link](#dataset--link)  
 - [Tools & Technologies](#tools--technologies)  
 - [Methodology](#methodology)    
+- [Key Findings](#Key--Findings)
 - [Acknowledgements](#acknowledgements)
-
 ---
 
 ## 💼 Business Understanding
@@ -66,7 +66,21 @@ Our analysis follows the **CRISP-DM** process:
 6. **Deployment** – Share findings through visuals and blog storytelling.
 
 ---
+## 🔍 Key Findings
 
+Based on the analysis of the 2024 Stack Overflow Developer Survey data:
+
+1. **Education Level**: Developers with higher education (master’s or above) tend to have slightly higher salaries, but experience has a stronger impact overall.
+
+2. **Experience and Salary**: Professional coding experience shows a clear positive correlation with salary, especially beyond 5 years.
+
+3. **Most Used Languages**: JavaScript and Python remain the most widely used languages, especially in web and data-related fields.
+
+4. **Remote Work Trends**: The majority of developers (over 60%) prefer hybrid or fully remote work, reflecting current global work trends.
+
+5. **Job Search Time**: Developers with higher education levels tend to spend less time searching for jobs each day.
+   
+---
 ## 🙏 Acknowledgements
 
 Huge thanks to [Stack Overflow](https://stackoverflow.com/) for conducting the survey and [Kaggle](https://www.kaggle.com/) for hosting the data.  
